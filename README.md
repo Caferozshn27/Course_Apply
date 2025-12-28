@@ -61,9 +61,4 @@ BtkAkademi/
 4. **Access the app**:
    Open your browser and navigate to `https://localhost:5001` (or the port shown in your terminal).
 
-## 📸 Preview
-
-*(Coming Soon - Screenshots of the Home and Application pages)*
-
----
 Developed as part of the BtkAkademi training.
