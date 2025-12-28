@@ -44,8 +44,8 @@ BtkAkademi/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/BtkAkademi.git
-   cd BtkAkademi
+   git clone https://github.com/yourusername/Course_Apply.git
+   cd Course_Apply
    ```
 
 2. **Restore dependencies**:
